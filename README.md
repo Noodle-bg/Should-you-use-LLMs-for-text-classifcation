@@ -1,5 +1,5 @@
-Why Traditional Methods Hold Their Own Against Large Language Models for Text Classification
-============================================================================================
+Why you should not use LLM's for text classification.. Or should you?
+======================================================================
 
 Welcome to my project where I dive into the world of text classification, comparing traditional methods like SVMs and Naive Bayes with large language models (LLMs) like Llama-2 7B and BERT_base_uncased . Spoiler: Bigger isn't always better!
 
